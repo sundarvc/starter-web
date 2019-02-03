@@ -1,7 +1,7 @@
 # Starter Web Project
 
 ## Introduction
-
+This is a project to learn about git comparisons.
 ## Purpose
 
 ## How to Contribute
