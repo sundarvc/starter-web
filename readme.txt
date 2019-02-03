@@ -13,4 +13,4 @@ This is closing comments
 ## Glossary
 Not yet added to index.
 
-<! Addec copyright -->
+<! Added copyright -->
