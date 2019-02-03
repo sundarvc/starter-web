@@ -16,3 +16,5 @@ Not yet added to index.
 <! Added copyright -->
 
 Changed this in a branch.
+
+Adding rebase example in the branch.
