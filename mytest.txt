@@ -1,2 +1,2 @@
 This is some text ....orginially.
-Added some info ... in master.
+Added some changes....in branch2.
