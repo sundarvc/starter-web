@@ -1,2 +1,3 @@
 Changing in master before branching.
 Changing in master before branching.
+Adding some code in branch2.
