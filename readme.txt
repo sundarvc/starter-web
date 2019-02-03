@@ -5,7 +5,7 @@ This is a project to learn about git comparisons.
 ## Purpose
 
 ## How to Contribute
-
+This one should be in local commit.
 ## Closing comments
 
 This is closing comments
