@@ -9,3 +9,6 @@ This one should be in local commit.
 ## Closing comments
 
 This is closing comments
+
+## Glossary
+Not yet added to index.
