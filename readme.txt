@@ -7,3 +7,5 @@
 ## How to Contribute
 
 ## Closing comments
+
+This is closing comments
